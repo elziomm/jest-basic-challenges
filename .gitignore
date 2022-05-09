@@ -1,0 +1,10 @@
+/.idea/
+/node_modules/
+
+# ide or editors files
+.idea*
+.nproject
+.vscode
+*.iml
+# Coverage directory used by tools like istanbul
+coverage
